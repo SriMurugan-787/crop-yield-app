@@ -4,9 +4,9 @@ A Streamlit web app that predicts crop yield and shows how rainfall and fertiliz
 
 🔗 **Live app:** https://crop-yield-app-prime.streamlit.app/
 
-<img width="1356" height="684" alt="Screenshot 2026-11-26 190755" src="https://github.com/user-attachments/assets/1bd66b76-bc0f-4edd-a9ec-8232057df600" />
-<img width="1363" height="685" alt="Screenshot 2026-11-26 190834" src="https://github.com/user-attachments/assets/34ef6c48-42c6-45e9-89d1-405255683574" />
 <img width="1365" height="687" alt="Screenshot 2026-11-26 190721" src="https://github.com/user-attachments/assets/46d4558f-7bcd-497b-8327-302eb80347b4" />
+<img width="1363" height="685" alt="Screenshot 2026-11-26 190834" src="https://github.com/user-attachments/assets/34ef6c48-42c6-45e9-89d1-405255683574" />
+<img width="1356" height="684" alt="Screenshot 2026-11-26 190755" src="https://github.com/user-attachments/assets/1bd66b76-bc0f-4edd-a9ec-8232057df600" />
 
 
 ## Features
