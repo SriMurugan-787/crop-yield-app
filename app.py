@@ -20,7 +20,7 @@ from sklearn.preprocessing import OneHotEncoder
 # ---------------------------------------------------------------
 DATA_FILE = "crop_yield.csv"
 BACKGROUND_FILE = "background.jpg"  # put this photo next to app.py in your repo
-FONT_NAME = "Poppins"  # any font name from fonts.google.com, or None for the default font
+FONT_NAME = "Playfair Display"  # any font name from fonts.google.com, or None for the default font
 HERE = os.path.dirname(os.path.abspath(__file__)) if "__file__" in globals() else "."
 COL_CROP, COL_SEASON, COL_STATE = "Crop", "Season", "State"
 COL_YEAR, COL_AREA, COL_RAIN = "Crop_Year", "Area", "Annual_Rainfall"
