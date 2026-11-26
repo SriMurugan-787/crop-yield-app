@@ -23,7 +23,7 @@ from sklearn.preprocessing import OneHotEncoder
 # ---------------------------------------------------------------
 DATA_FILE = "crop_yield.csv"
 BACKGROUND_FILE = "background.jpg"  # used only when there are no slide pictures
-FONT_NAME = "Playfair Display" # any font name from fonts.google.com, or None for the default font
+FONT_NAME = "Firjar" # any font name from fonts.google.com, or None for the default font
 # Background slideshow pictures: put them in the folder below, OR name them slide1.jpg, slide2.jpg ... next to app.py
 SLIDES_DIR = "slides"
 SLIDE_SECONDS = 6  # seconds each background picture stays on screen
