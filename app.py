@@ -352,7 +352,7 @@ except Exception:
 # ---------------------------------------------------------------
 # HEADER
 # ---------------------------------------------------------------
-st.title("Impact of Fertilizer and Rainfall on Crop Yield")
+st.title("IMPACT OF FERTILIZER AND RAINFALL ON CROP YIELD")
 st.write(
     "Find out how much of a crop you can expect to harvest, and how much rainfall "
     "and fertilizer change it. Answer the four steps below, then click "
