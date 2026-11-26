@@ -23,7 +23,7 @@ from sklearn.preprocessing import OneHotEncoder
 # ---------------------------------------------------------------
 DATA_FILE = "crop_yield.csv"
 BACKGROUND_FILE = "background.jpg"  # used only when there are no slide pictures
-FONT_NAME = "Poppins"  # any font name from fonts.google.com, or None for the default font
+FONT_NAME = "Nunito"  # any font name from fonts.google.com, or None for the default font
 # Background slideshow pictures: put them in the folder below, OR name them slide1.jpg, slide2.jpg ... next to app.py
 SLIDES_DIR = "slides"
 SLIDE_SECONDS = 6  # seconds each background picture stays on screen
@@ -352,7 +352,7 @@ except Exception:
 # ---------------------------------------------------------------
 # HEADER
 # ---------------------------------------------------------------
-st.title("🌾 Impact of Fertilizer and Rainfall on Crop Yield")
+st.title("Impact of Fertilizer and Rainfall on Crop Yield")
 st.write(
     "Find out how much of a crop you can expect to harvest, and how much rainfall "
     "and fertilizer change it. Answer the four steps below, then click "
